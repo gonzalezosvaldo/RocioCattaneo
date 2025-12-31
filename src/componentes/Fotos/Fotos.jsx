@@ -13,7 +13,7 @@ function Fotos() {
     { src: `${import.meta.env.BASE_URL}img/Foto6.jpeg`, text: 'Primera foto en la nieve, durante la primera parada en el Cerro Catedral' },
     { src: `${import.meta.env.BASE_URL}img/Foto7.jpeg`, text: 'Pijamada, comiendo algo rico y seguro viendo friends (COMO SIEMPRE)' },
     { src: `${import.meta.env.BASE_URL}img/Foto8.jpeg`, text: 'Vos admirando mi belleza y dandote cuenta de que estas robando' },
-    { src: `${import.meta.env.BASE_URL}img/Foto9.jpeg`, text: 'En el puerto de Los Bosques de Arrayanes' },
+    { src: `${import.meta.env.BASE_URL}img/Foto9b.jpeg`, text: 'En el puerto de Los Bosques de Arrayanes' },
     { src: `${import.meta.env.BASE_URL}img/Foto10.jpeg`, text: 'Cinee' },
     { src: `${import.meta.env.BASE_URL}img/Foto11.jpeg`, text: 'Nosotros despues de una pelea' },
     { src: `${import.meta.env.BASE_URL}img/Foto12.jpeg`, text: 'Hampton By Hilton Bariloche. Yendo a cenar afuera' },
