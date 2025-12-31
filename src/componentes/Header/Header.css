@@ -1,0 +1,14 @@
+.site-header {
+    background-color: rgba(0, 0, 0, 0.581);
+    color: white;
+    justify-content: center;
+    display: flex;
+    top: 0;
+    position: sticky;
+    letter-spacing: 1rem;
+    font-size: large;
+    font-family: italic;
+    border: 0.5px solid black;
+
+    
+}

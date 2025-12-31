@@ -1,0 +1,46 @@
+/* CONTENEDOR GENERAL DE LA CARTA */
+.carta {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: "Georgia", serif;
+}
+
+/* ENCABEZADO: TITULO IZQ - FECHA DER */
+.carta-encabezado {
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+/* TITULO */
+.carta-titulo {
+  margin: 0;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/* FECHA */
+.carta-fecha {
+  font-size: 18px;
+  font-style: italic;
+  text-align: right;
+  margin-bottom: 40px
+
+}
+.carta-fecha p {
+  margin: 0;
+}
+
+/* CUERPO DE LA CARTA */
+.carta-cuerpo {
+  text-align: justify;
+  line-height: 1.8;
+  hyphens: auto;
+}
+
+/* PARRAFOS */
+.carta-cuerpo p {
+  margin-bottom: 24px;
+}
